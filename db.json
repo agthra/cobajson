@@ -20,13 +20,13 @@
     {
       "postId": 1,
       "id": 1,
-      "body": "some comment",
+      "text": "adam gaming",
       "email": "adam@gmail.com"
     },
     {
       "postId": 2,
       "id": 2,
-      "body": "some comment",
+      "text": "halo",
       "email": "ivan@gmail.com"
     }
   ]
