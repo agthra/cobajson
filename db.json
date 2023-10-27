@@ -16,7 +16,7 @@
       "title": "Post 3"
     }
   ],
-  "comment": [
+  "comments": [
     {
       "postId": 1,
       "id": 1,
@@ -26,11 +26,6 @@
       "postId": 2,
       "id": 2,
       "text": "halo"
-    },
-    {
-      "postId": 3,
-      "id": 3,
-      "body": "selamat pagi"
     }
   ]
 }
