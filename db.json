@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "userid": 1,
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "userid": 2,
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "userid": 3,
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "postId": 1,
+      "id": 1,
+      "name": "some comment",
+      "email": "adam@gmail.com"
+    },
+    {
+      "postId": 2,
+      "id": 2,
+      "name": "some comment",
+      "email": "ivan@gmail.com"
+    }
+  ]
+}
